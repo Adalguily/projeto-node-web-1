@@ -55,7 +55,10 @@ finalizando a conexão com o banco
 este encerra as ações feitas pelo usuario, quando completada
 
 
-no db.js faz o require, que server para importar módulos externos de um programa
+no db.js faz o require, que server para importar módulos externos de um programa, requerer
 
-no segundo ele monta a tabela com as informações do usuario para banco de dados
+no segundo ele monta a tabela com as informações do usuario para banco de dados, tabelar
 
+no terceiro ele consta que o usuario foi criado e depois é postado no portal 3000 , confirmar e postar
+
+pode-se entender que seria uma copia dos comandos anterios, entretanto foi mando para um portal onde o usuario poderá vizualizar o que foi feito via internet
