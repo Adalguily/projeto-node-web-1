@@ -18,3 +18,28 @@ knex('usuarios').insert({
   email: 'joao@email.com',
   senha: '123456'
 }).then(() => console.log("Usuário inserido"));
+
+knex('usuarios').select('*')
+  .then(usuarios => {
+    console.log(usuarios);
+  });
+
+
+  knex('usuarios')
+  .where({ email: 'joao@email.com' })
+  .first()
+  .then(usuario => {
+    console.log(usuario);
+  });
+
+  knex('usuarios')
+  .where({ id: 1 })
+  .update({ nome: 'João Atualizado' })
+  .then(() => console.log("Usuário atualizado"));
+
+  knex('usuarios')
+  .where({ id: 1 })
+  .del()
+  .then(() => console.log("Usuário removido"));
+
+  knex.destroy();

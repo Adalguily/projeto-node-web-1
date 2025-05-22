@@ -35,3 +35,14 @@ o foi criado o arquivo gitignore, este serve para colocar os arquivos no histori
 foi adicionado a programação de tabela usuarios que consta id, nome, email, senha e mostra Tabela Criada
 
 foi colocado um insert da tabela anterior e onde o usuario coloca suas informaçoes e depois será confirmado que foi inserido
+
+
+consulta de dados 
+
+filtrando dados
+
+atualizando dados
+
+remoção de dados
+
+finalizando a conexão com o banco
