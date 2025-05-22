@@ -53,3 +53,9 @@ este caso o usuario queira excluir algo este faz a remoção
 finalizando a conexão com o banco
 
 este encerra as ações feitas pelo usuario, quando completada
+
+
+no db.js faz o require, que server para importar módulos externos de um programa
+
+no segundo ele monta a tabela com as informações do usuario para banco de dados
+

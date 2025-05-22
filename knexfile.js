@@ -43,3 +43,5 @@ knex('usuarios').select('*')
   .then(() => console.log("Usuário removido"));
 
   knex.destroy();
+
+  
