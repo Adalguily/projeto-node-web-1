@@ -78,3 +78,14 @@ npm install express knex sqlite3 jsonwebtoken bcryptjs
 este faz que instala seis pacotes JavaScript essenciais para desenvolvimento web e segurança: Express, Knex, SQLite3, Jsonwebtoken e Bcryptjs. Este comando é usado para adicionar e importar esses pacotes para um projeto Node.js, permitindo que você utilize suas funcionalidades em seu código.
 
 os dois ultimos faz uma biblioteca de tokens e de senhas, devidos os outros já estarem instalados.
+
+o primeiro requer o cliente do sqlite3 e o nome do blog
+e trata com nulidade 
+
+foi dado um erro depois foi corrigido, identificado o erro, as "coisas" começaram a rodar de maneira adequada. e foi comitadado o erro
+
+![alt text]({939CDE83-8DDF-4CC5-B39C-9A5F63A8822D}.png)
+
+![alt text]({983BD526-8A2F-475E-9C4A-372F71A29D16}.png)
+
+agora esta de acordo com o pdf, sugerido do professor
