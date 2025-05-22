@@ -89,3 +89,16 @@ foi dado um erro depois foi corrigido, identificado o erro, as "coisas" começar
 ![alt text]({983BD526-8A2F-475E-9C4A-372F71A29D16}.png)
 
 agora esta de acordo com o pdf, sugerido do professor
+
+
+agora será feita a tabela o programa API para tokens e com recursos de bibliotecas
+
+segundamente criado o indez para o cadastro do usuario e login
+
+depois a criação de rotas para a inscrição e login
+
+apos colocado o anterior, coloca-se a middleware de autenficação, para exibir token não enviado e token invalido, caso de errado
+
+por ultimo proteção de rotas, e tambem exiber mensagem criada, mensagem usuario, mensagem id, mensagem texto e mensagem data_postagem
+
+seguindo o API, com cadastro, login e autentificação, postagem e leitura de mensagens
