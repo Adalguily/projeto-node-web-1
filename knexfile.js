@@ -5,3 +5,11 @@ const knex = require('knex')({
     },
     useNullAsDefault: true
 });
+
+knex.schema.createTable('usuarios', (table) => {
+    table.increments('id');
+    table.string('nome');
+    table.string('email');
+    table.string('senha');
+}).then(() => console.log("Tabela criada"));
+

@@ -30,4 +30,6 @@ tive que remover a pasta node modules, que deu problema no github e utilizei ess
 
 git rm -r --cached node_modules
 
-o foi criado o arquivo gitignore, este serve para colocar os arquivos no historico do node modules
+o foi criado o arquivo gitignore, este serve para colocar os arquivos no historico do node modules 
+
+foi adicionado a programação de tabela usuarios que consta id, nome, email, senha e mostra Tabela Criada
