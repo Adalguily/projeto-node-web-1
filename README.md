@@ -70,3 +70,11 @@ Criei uma conta no postman, fiz um projeto para vizualizar e criar usuario
 ![alt text]({5070CBF9-7636-4CA3-903D-C96DFFAC4629}.png), não funciona devido não existir rotas, criação de usuario e outras identificações
 
 ![alt text]({6861B7F7-7C74-46D4-B576-B1F900CF2772}.png), ainda não tem rotas
+
+
+irei colocar o comando:
+npm install express knex sqlite3 jsonwebtoken bcryptjs
+
+este faz que instala seis pacotes JavaScript essenciais para desenvolvimento web e segurança: Express, Knex, SQLite3, Jsonwebtoken e Bcryptjs. Este comando é usado para adicionar e importar esses pacotes para um projeto Node.js, permitindo que você utilize suas funcionalidades em seu código.
+
+os dois ultimos faz uma biblioteca de tokens e de senhas, devidos os outros já estarem instalados.
