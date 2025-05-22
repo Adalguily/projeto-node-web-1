@@ -33,3 +33,5 @@ git rm -r --cached node_modules
 o foi criado o arquivo gitignore, este serve para colocar os arquivos no historico do node modules 
 
 foi adicionado a programação de tabela usuarios que consta id, nome, email, senha e mostra Tabela Criada
+
+foi colocado um insert da tabela anterior e onde o usuario coloca suas informaçoes e depois será confirmado que foi inserido

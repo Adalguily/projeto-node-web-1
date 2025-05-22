@@ -13,3 +13,8 @@ knex.schema.createTable('usuarios', (table) => {
     table.string('senha');
 }).then(() => console.log("Tabela criada"));
 
+knex('usuarios').insert({
+  nome: 'João Silva',
+  email: 'joao@email.com',
+  senha: '123456'
+}).then(() => console.log("Usuário inserido"));
