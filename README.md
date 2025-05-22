@@ -15,3 +15,15 @@ o comando acima faz associar um repositório local a um repositório remoto.
 git branch -M main, esse comando criar uma branch chamada "main", branch(ou seja, branches seria uma especie de ramificações designar ramos de trabalhos)
 
 git push -u origin main este sicroniza o repositório remoto com o repositório local, sempre irei fazer isso quando tiver "coisas novas" no código quando sincronizar com repositório remoto
+
+
+o API REST define como as aplicações se comunicam entre si. Em APIs REST, as informações são sempre processadas e manipuladas no backend. O front-end envia uma solicitação (requisição) para o backend, que, por sua vez, executa as operações necessárias, como acessar um banco de dados, processar dados, ou realizar cálculos. A resposta do backend é então enviada de volta para o front-end.
+
+Vamos iniciar a integração com o banco de dados Knex.
+
+o comando npm install knex sqlite3, instala o knex
+
+coloquei um arquivo knexfile.js e coloquei uma programação nele, que estava descrito no pdf, la constava client, connection, filename: meu banco
+e uso de algo nulo como verdadeiro
+
+
