@@ -62,3 +62,11 @@ no segundo ele monta a tabela com as informações do usuario para banco de dado
 no terceiro ele consta que o usuario foi criado e depois é postado no portal 3000 , confirmar e postar
 
 pode-se entender que seria uma copia dos comandos anterios, entretanto foi mando para um portal onde o usuario poderá vizualizar o que foi feito via internet
+
+Criei uma conta no postman uma request chamada projeto1 que continha vizualização do usuario e criação do usuario,
+
+Criei uma conta no postman, fiz um projeto para vizualizar e criar usuario
+
+![alt text]({5070CBF9-7636-4CA3-903D-C96DFFAC4629}.png), não funciona devido não existir rotas, criação de usuario e outras identificações
+
+![alt text]({6861B7F7-7C74-46D4-B576-B1F900CF2772}.png), ainda não tem rotas
