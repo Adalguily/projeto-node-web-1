@@ -26,4 +26,8 @@ o comando npm install knex sqlite3, instala o knex
 coloquei um arquivo knexfile.js e coloquei uma programação nele, que estava descrito no pdf, la constava client, connection, filename: meu banco
 e uso de algo nulo como verdadeiro
 
+tive que remover a pasta node modules, que deu problema no github e utilizei esse comando para tirar a pasta:
 
+git rm -r --cached node_modules
+
+o foi criado o arquivo gitignore, este serve para colocar os arquivos no historico do node modules
