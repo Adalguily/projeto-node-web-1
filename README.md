@@ -38,11 +38,18 @@ foi colocado um insert da tabela anterior e onde o usuario coloca suas informaç
 
 
 consulta de dados 
+mostra ao usuario como ele colocou os seus dados
+
 
 filtrando dados
+mostra como ele colocou o seu email e nome como link de acesso aos seus dados
 
 atualizando dados
+este reintegrar qualquer modificação feita pelo usuario para atualizar qualquer mudança feita por ele
 
 remoção de dados
+este caso o usuario queira excluir algo este faz a remoção
 
 finalizando a conexão com o banco
+
+este encerra as ações feitas pelo usuario, quando completada
